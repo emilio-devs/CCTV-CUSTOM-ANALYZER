@@ -32,9 +32,9 @@ Incluye una UI simple en pantalla con:
 - OpenCV
 - Ultralytics (YOLOv8)
 
-### Instalación
-
-Si usas Pipenv:
+### Uso
+Guarda en la carpeta data el archivo de video que quieres analizar.
+Pipenv para entornos aislados:
 ```bash
 pip install pipenv
 pipenv install
