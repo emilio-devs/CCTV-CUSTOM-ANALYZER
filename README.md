@@ -12,9 +12,11 @@ Incluye una UI simple en pantalla con:
 ## Demo (captura)
 
 <p align="center">
-  <img src="assets/screenshot.png" width="850">
+  <img src="screenshots/screenshot_1.png" width="850">
 </p>
-
+<p align="center">
+  <img src="screenshots/screenshot_2.png" width="850">
+</p>
 ---
 
 ## Controles
